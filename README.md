@@ -22,15 +22,15 @@ This repository presents **LYRİKS**, a feature-rich and visually modern music w
 
 ## 🔥 Features
 
-🎵 Trending music discovery based on real-time global data
-👤 Explore top artists and their music
-📊 View genre-specific top charts
-🔍 Search music by artist, song, or keyword
-🎧 Play short audio previews directly
-📱 Mobile-responsive layout
-⚡️ Powered by **Redux Toolkit** and **RapidAPI**
-🧩 Clean modular folder structure with reusable components
-🌐 SEO-friendly metadata setup
+* 🎵 Trending music discovery based on real-time global data
+* 👤 Explore top artists and their music
+* 📊 View genre-specific top charts
+* 🔍 Search music by artist, song, or keyword
+* 🎧 Play short audio previews directly
+* 📱 Mobile-responsive layout
+* ⚡️ Powered by **Redux Toolkit** and **RapidAPI**
+* 🧩 Clean modular folder structure with reusable components
+* 🌐 SEO-friendly metadata setup
 
 ---
 
